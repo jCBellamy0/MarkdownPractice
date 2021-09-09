@@ -6,6 +6,8 @@ The general workflow behind making bagels is to first prepare the dough, and the
 
 ***Caution: Ensure that you wash your hands thoroughly before cooking to prevent spreading infection to any potential other who might consume your food. This recipe also involves the use of an oven and boiling water, which can cause burns if handled improperly. Use oven gloves/mitts when dealing with anything exposed to high heat.***
 
+![Dutch oven](pot.jpg)
+
 ### Ingredients/Equipment
 * 1 1/2 cups warm (110 F) water
 * 2 3/4 tsp active dry yeast
@@ -30,6 +32,9 @@ The general workflow behind making bagels is to first prepare the dough, and the
 4. Place the kneaded dough into a bowl greased with the oil/non-stick spray and cover the bowl with the plastic wrap to let the dough rest for 1 hour or potentially longer if the workspace is cold.
 5. Divide the dough into 8 equally-sized pieces and roll them into balls.
 6. Use your thumb to push a hole through the center of each of the balls, and then stretch each ball out into a ring with a center hole diameter of 1 1/2 in.
+
+![Shaped bagel dough](shapedbagel.jpg)
+
 7. Line the two baking sheets with parchment paper to prevent the bagels from sticking to the tray when being baked.
 8. Preheat the oven to 425F.
 9. Fill the pot/dutch oven with the water and honey and heat until boiling.
