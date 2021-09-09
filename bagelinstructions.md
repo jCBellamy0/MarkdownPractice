@@ -4,7 +4,7 @@ Bagels are a breakfast staple food, and are relatively simple to make, requiring
 
 The general workflow behind making bagels is to first prepare the dough, and then shape the dough and let it rest. Afterwards the shaped dough is boiled and finally baked to finish.
 
-**Caution: Ensure that you wash your hands thoroughly before cooking to prevent spreading infection to any potential other who might consume your food. This recipe also involves the use of an oven and boiling water, which can cause burns if handled improperly. Use oven gloves/mitts when dealing with anything exposed to high heat.**
+***Caution: Ensure that you wash your hands thoroughly before cooking to prevent spreading infection to any potential other who might consume your food. This recipe also involves the use of an oven and boiling water, which can cause burns if handled improperly. Use oven gloves/mitts when dealing with anything exposed to high heat.***
 
 ### Ingredients/Equipment
 * 1 1/2 cups warm (110 F) water
